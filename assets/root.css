@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* @import url("reset.css"); */
+
+/* ==========
+Main CSS File
+========== */
+
+:root {
+  --color-white--: #FFFFFF;
+  --color-grey-light--: #D5E1EF;
+  --color-grey--: #7D889E;
+  --color-navy-dark--: #1F314F;
+  --color-blue--: #2C7DFA;
+  --color-blue-shade--: #3685FF;
+}
